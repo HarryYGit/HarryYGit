@@ -24,7 +24,7 @@ I'm a Master of Computer Science student at the University of Wollongong, curren
 - **Tools**: GitHub, Docker, Azure
 
 ## Stats
-![Haoran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Haoran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarryYGit&show_icons=true&theme=tokyonight)
 
 ## Connect with Me
 - **LinkedIn**: [in/haoran-yan](https://www.linkedin.com/in/haoran-yan/)
