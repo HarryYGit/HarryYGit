@@ -27,7 +27,7 @@ I'm a Master of Computer Science student at the University of Wollongong, curren
 ![Haoran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 ## Connect with Me
-- **LinkedIn**: [/in/haoran-yan](https://www.linkedin.com/in/haoran-yan/)
+- **LinkedIn**: [in/haoran-yan](https://www.linkedin.com/in/haoran-yan/)
 - **Website**: [http://haoranyan.xyz](http://haoranyan.xyz)
 
 <!-- Optional: Add a section for latest blog posts, projects, or achievements -->
