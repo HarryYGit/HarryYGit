@@ -11,6 +11,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png">
 
   <!-- Add more badges as needed -->
 </p>
