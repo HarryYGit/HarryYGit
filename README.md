@@ -11,7 +11,8 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vue-20232A?style=flat-square&logo=react&logoColor=41B883">
+  <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
 
   <!-- Add more badges as needed -->
 </p>
