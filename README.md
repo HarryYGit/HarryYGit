@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Element%20Plus-409EFF?style=flat-square&logo=element-plus&logoColor=white">
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white">
+  <img src="https://img.shields.io/badge/Vuex-35495E?style=flat-square&logo=vuex&logoColor=4FC08D">
 
   <!-- Add more badges as needed -->
 </p>
