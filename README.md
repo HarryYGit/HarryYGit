@@ -11,7 +11,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vue-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vue-20232A?style=flat-square&logo=react&logoColor=41B883">
 
   <!-- Add more badges as needed -->
 </p>
