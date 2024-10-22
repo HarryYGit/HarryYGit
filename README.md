@@ -11,6 +11,7 @@
 <p align="center">
 
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Vue-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 
   <!-- Add more badges as needed -->
 </p>
@@ -20,7 +21,7 @@ I'm a Master of Computer Science student at the University of Wollongong, curren
 
 ## Technologies & Tools
 - **Languages**: Python, JavaScript, C#
-- **Frameworks**: React, .NET
+- **Frameworks**: React, .NET, VUE, Django
 - **Tools**: GitHub, Docker, Azure
 
 ## Stats
